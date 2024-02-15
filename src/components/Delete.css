@@ -1,0 +1,27 @@
+.main-div {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.modal-div {
+  background: white;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-top: 15px;
+  position: absolute;
+  /* top: 129px; */
+  bottom: 206px;
+}
+.btn-group {
+  text-align: right;
+}
+.delete-btn {
+  padding: 10px 15px;
+  background: #675fd5;
+  color: white;
+  border: none;
+  position: relative;
+}

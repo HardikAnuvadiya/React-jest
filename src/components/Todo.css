@@ -1,0 +1,46 @@
+.div-text {
+  width: 500px;
+  height: 90px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-center {
+  text-align: center;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.add_btn {
+  padding: 10px;
+  width: 100px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+input {
+  padding: 10px;
+  border-radius: 10px;
+}
+.span-text {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 15px;
+  height: 70px;
+  width: 300px;
+}
+.btn_edit {
+
+}
+.btn {
+  padding: 10px 20px;
+}
+.btn_delete {
+  margin-left: 10px;
+}
